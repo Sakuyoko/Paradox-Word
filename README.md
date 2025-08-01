@@ -4,4 +4,4 @@
 A modern, portable document editor based on HTML.
 
 How to use?
-Open it directly through a web browser(Chrome is better).
+Open it directly through a web browser.(Chrome is better)
