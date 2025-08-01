@@ -1,0 +1,2 @@
+# Paradox-Word
+N/A
